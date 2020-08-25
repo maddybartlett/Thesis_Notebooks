@@ -1,5 +1,6 @@
-This repository contains the scripts needed for recreating the experiment and analysis reported in Chapter 5 of my Thesis.
+This repository contains the scripts needed for reproducing the experiment and analysis reported in Chapter 5 of my Thesis.
 
+Note: The data sets used as input to the classifiers is not available from this repository but can be obtained by contacting the experimenter, or by obtaining the PInSoRo data set (https://freeplay-sandbox.github.io/application) and using the create data set files available in the Chapter 4 folder of this repository. 
 
 # Experiment. <br>
 Contains:
