@@ -16,7 +16,9 @@ Contains:
   - A script for collating the individual csv files into a single file to be used in the analysis
   - Scripts for using the krippendorff's alpha analysis and other tools (utils) which are called in the Analysis script
   
-# Data. <br>
+# Data/Input. <br>
 Contains:
   - The collated csv file containing anonymised data from all participants
+  - A csv file containing just the data from the full-scene condition
+  - A csv file containing just the data from the movement-alone condition
 
