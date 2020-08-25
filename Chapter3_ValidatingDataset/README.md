@@ -10,7 +10,10 @@ Contains:
 Contains:
   - The analysis script
   
-# Data. <br>
+# Data/Input. <br>
 Contains:
   - The collated csv file containing anonymised data from all participants
 
+# Data/Output. <br>
+Contains:
+  - The 10 raw output files containing the responses of each participant
