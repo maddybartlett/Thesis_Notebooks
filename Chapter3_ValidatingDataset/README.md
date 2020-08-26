@@ -8,7 +8,7 @@ Contains:
   
 # Analysis. <br>
 Contains:
-  - The analysis script
+  - The analysis script (written in R)
   
 # Data/Input. <br>
 Contains:
