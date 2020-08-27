@@ -10,6 +10,8 @@ Contains:
   - A list of the filenames and time-stamps for the clips used in the experiment
   - A php file for saving the data at the end of the experiment
   
+For replication purposes the clips used as stimuli can be obtained from the PInSoRo data set (https://freeplay-sandbox.github.io/) using the list of filenames and time-stamps provided here. The labels assigned to each clip are also listed on this document. Start times are provided and end times for each clip are a full 30 seconds after the start time. 
+  
 # Analysis. <br>
 Contains:
   - The analysis script
