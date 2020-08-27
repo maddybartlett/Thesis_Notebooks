@@ -1,4 +1,4 @@
-# Chapter 3.
+# Chapter 3
 
 This repository contains the scripts needed for reproducing the experiment and analysis reported in Chapter 3 of my Thesis.
 
