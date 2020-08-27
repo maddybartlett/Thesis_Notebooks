@@ -21,6 +21,4 @@ Contains:
 # Data/Input. <br>
 Contains:
   - The collated csv file containing anonymised data from all participants
-  - A csv file containing just the data from the full-scene condition
-  - A csv file containing just the data from the movement-alone condition
 
