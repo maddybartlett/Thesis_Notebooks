@@ -1,5 +1,5 @@
 This repository contains the scripts needed for reproducing the experiment and analysis reported in Chapter 2 of my Thesis.
-These resources can also be found at https://github.com/severin-lemaignan/pinsoro-kinematics-study/ which is the repository written to accompany the Frontiers article "What Can You See? Identifying Cues on Internal States from the Movements of Natural Social Interactions". 
+These resources, as well as the data file used for analysis, can also be found at https://github.com/severin-lemaignan/pinsoro-kinematics-study/ which is the repository written to accompany the Frontiers article "What Can You See? Identifying Cues on Internal States from the Movements of Natural Social Interactions". 
 
 Bartlett ME, Edmunds CER, Belpaeme T, Thill S and Lemaignan S (2019) What Can You See? Identifying Cues on Internal States From the Movements of Natural Social Interactions. Front. Robot. AI 6:49. doi: 10.3389/frobt.2019.00049
 
@@ -17,8 +17,4 @@ Contains:
   - The analysis script
   - A script for collating the individual csv files into a single file to be used in the analysis
   - Scripts for using the krippendorff's alpha analysis and other tools (utils) which are called in the Analysis script
-  
-# Data/Input. <br>
-Contains:
-  - The collated csv file containing anonymised data from all participants
 
