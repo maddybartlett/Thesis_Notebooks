@@ -1,3 +1,4 @@
+# Delay Network. <br>
 This repository contains the scripts needed for reproducing the experiment and analysis of the Delay Network reported in Chapter 4 of my Thesis.
 
 Note: the clips used in the experiment as well as the output data files are not made available in this repository. Instructions for generating the input data yourself are provided below.  
@@ -18,3 +19,6 @@ To construct the data sets, follow these steps:
   - This new file is the equivalent of "multidata.csv" as used in these scripts
   - Use the "Create_Data" notebook in the "Experiment" folder (changing the location of multidata.csv to the location of your file on your machine) and run the script to create three new numpy files "higheng.npy", "mideng.npy" and "loweng.npy"
   - These new files are your high, intermediate and low engagement data sets respectively
+
+# Conceptor-based Network. <br>
+The Conceptor-based Network was the work of Dr. D. Hernandez-Garcia and is available in their repository at .
