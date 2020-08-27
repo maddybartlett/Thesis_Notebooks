@@ -15,6 +15,12 @@ Contains:
   - The script for analysing the results of gridsearches
   - The analysis script 
   
-# Data/Output. <br>
-Contains:
-  - The data files from each approach, used for the analysis
+# Constructing Input Data <br>
+In order to construct the raw engagement data files please follow the instructions provided in the "Chapter4_DelayNetwork" README file. 
+
+Once you have the higheng, mideng and loweng numpy files, to create the LMU pre-processed and random data sets follow these steps:
+  - Use the "Create_LMU+Random_Datasets" Notebook 
+  - Make sure to change the file locations to the relevant file on your machine
+  - Run the cells under the heading "Create Random Data" in order to create the random data set
+  - When running the "Create LMU Pre-processed Data" cells, make sure to change the values of "q" and "theta" to the values you want
+  - For replication purposes, the values used in this study were q = 2, 3 or 4, and theta = 1, 3, 5 or 7
