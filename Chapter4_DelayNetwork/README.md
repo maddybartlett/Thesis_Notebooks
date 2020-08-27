@@ -3,15 +3,15 @@ This repository contains the scripts needed for reproducing the experiment and a
 
 Note: the clips used in the experiment as well as the output data files are not made available in this repository. Instructions for generating the input data yourself are provided below.  
 
-# Experiment. <br>
+## Experiment. <br>
 Contains:
   - The 10 html experiment scripts - 2 for each participant
   
-# Analysis. <br>
+## Analysis. <br>
 Contains:
   - The analysis script (written in R)
   
-# Constructing Input Data <br>
+## Constructing Input Data <br>
 In this repository the scripts required for constructing the data sets used as input to the classifier are provided. <br> 
 To construct the data sets, follow these steps:
   - First download the anonymous version of the PInSoRo data set (https://freeplay-sandbox.github.io/get-dataset)
